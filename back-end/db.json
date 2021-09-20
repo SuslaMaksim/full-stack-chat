@@ -1,0 +1,244 @@
+{
+  "dialogs": [
+    {
+      "id": "80f9a95057da793f08b9170df03d31",
+      "user": {
+        "fullName": "Федор Достаевский",
+        "isOnline": false,
+        "avatar": "https://images3.alphacoders.com/103/1033210.jpg"
+      },
+      "lastMessage":{
+        "text": "Мы все свидетельствуем Вам Глубочайшее наше почтение и целуем Ваши ручки, дражайший папенька:Михаила,Федор,Варвара и Андрюша",
+        "isReaded": false,
+        "created_at": "22 01 2021 12:54"
+      }
+    },
+    {
+      "id": "80fde95057da793f08b9170df03d31",
+      "user": {
+        "fullName": "Димон",
+        "isOnline": false,
+        "avatar": null
+      },
+      "lastMessage":{
+        "text": "Learn JS and React JS",
+        "isReaded": false,
+        "created_at": "19 01 2021 12:30"
+      }
+    },
+    {
+      "id": "80asdfa5057da793f08b9170df03d31",
+      "user": {
+        "fullName": "Narkus",
+        "isOnline": false,
+        "avatar": null
+      },
+      "lastMessage":{
+        "text": "All around us are bullshit",
+        "isReaded": false,
+        "created_at": "3 12 2020 11:24"
+      }
+    },
+    {
+      "id": "80fq7t4057da793f08b9170df03d31",
+      "user": {
+        "fullName": "Andrey",
+        "isOnline": false,
+        "avatar": null
+      },
+      "lastMessage":{
+        "text": " All in you heads",
+        "isReaded": false,
+        "created_at": "01 01 2021 07:10"
+      }
+    },
+    {
+      "id": "80fnfyts57da793f08b9170df03d31",
+      "user": {
+        "fullName": "Бобер",
+        "isOnline": false,
+        "avatar": null
+      },
+      "lastMessage":{
+        "text": "Bober is the best friend fo humen",
+        "isReaded": false,
+        "created_at": "17 01 2021 12:00"
+      }
+    },
+    {
+      "id": "80fa1f4u57da793f08b9170df03d31",
+      "user": {
+        "fullName": " Достаевский",
+        "isOnline": false,
+        "avatar": null
+      },
+      "lastMessage":{
+        "text": "Мы все свидетельствуем Вам Глубочайшее наше почтение и целуем Ваши ручки, дражайший папенька:Михаила,Федор,Варвара и Андрюша",
+        "isReaded": false,
+        "created_at": "22 01 2021 12:54"
+      }
+    },
+    {
+      "id": "80fxb76n57da793f08b9170df03d31",
+      "user": {
+        "fullName": "Nikita",
+        "isOnline": false,
+        "avatar": null
+      },
+      "lastMessage":{
+        "text": "Мы все свидетельствуем Вам Глубочайшее наше почтение и целуем Ваши ручки, дражайший папенька:Михаила,Федор,Варвара и Андрюша",
+        "isReaded": false,
+        "created_at": "22 01 2021 12:54"
+      }
+    },
+    {
+      "id": "80fn345oda793f08b9170df03d31",
+      "user": {
+        "fullName": "Men",
+        "isOnline": false,
+        "avatar": "https://images3.alphacoders.com/103/1033210.jpg"
+      },
+      "lastMessage":{
+        "text": "Мы все свидетельствуем Вам Глубочайшее наше почтение и целуем Ваши ручки, дражайший папенька:Михаила,Федор,Варвара и Андрюша",
+        "isReaded": false,
+        "created_at": "22 01 2021 12:54"
+      }
+    }
+  ],
+  "messages": [
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "1",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "8",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": true,
+      "isRead": false,
+      "id": "5",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "4",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "3",
+      "dialogId": ""
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": true,
+      "isRead": false,
+      "id": "2",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum  sdf sdf sdf sd fds fsfdf dfsd fsdf sdf sd fsd fsd fsd fsd fs df sdf sd fsdf sd fs f",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "11",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "21",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "19",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "17",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "15",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum ",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "13",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum  sdf sdf sdf sd fds fsfdf dfsd fsdf sdf sd fsd fsd fsd fsd fs df sdf sd fsdf sd fs f",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "22",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },
+    {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum  sdf sdf sdf sd fds fsfdf dfsd fsdf sdf sd fsd fsd fsd fsd fs df sdf sd fsdf sd fs f",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "33",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    },  {
+      "avatar": "https://previews.123rf.com/images/oligliya/oligliya1710/oligliya171000016/87348214-call-center-customer-support-operator-assistants-flat-avatar-.jpg",
+      "text": "lorem ipsum  sdf sdf sdf sd fds fsfdf dfsd fsdf sdf sd fsd fsd fsd fsd fs df sdf sd fsdf sd fs f",
+      "data": "12.10.18",
+      "isMe": false,
+      "isRead": false,
+      "id": "26",
+      "dialogId": "80fde95057da793f08b9170df03d31"
+    }
+  ]
+}

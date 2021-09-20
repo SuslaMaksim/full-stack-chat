@@ -1,0 +1,93 @@
+.chat-input{
+  position: relative;
+  padding: 5px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  &__upload{
+    cursor: pointer;
+    margin-left: 10px;
+    input{
+      cursor: pointer;
+    }
+    &:hover{
+      cursor: pointer;
+      & .chat-input__upload-icons{
+        color: #418fff;
+      }
+    }
+
+    &-icons{
+      margin-right: 10px;
+      color: #B2B2B2;
+      cursor: pointer;
+
+    }
+
+    }
+  &__emoji-picker{
+    position: absolute;
+    bottom: 80px;
+    left: 47px;
+
+  }
+
+  &__icons{
+    margin-right: 10px;
+    color: #B2B2B2;
+    cursor: pointer;
+    &:last-child{
+      margin-right: 0px;
+    }
+    &:first-child{
+      margin-right: 10px;
+    }
+
+    &:hover{
+      color: #418fff;
+    }
+  }
+  &__pictureswall{
+
+    position: absolute;
+    bottom: 80px;
+    left: 47px;
+  }
+  &__isrecording{
+    position: relative;
+    &-span{
+      color: tomato;
+    }
+    &::before{
+      position: absolute;
+      display: block;
+      content: '';
+      background-color: tomato;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      left: -14px;
+      top: 4px;
+      animation: wave-animation 1.4s ease-in-out infinite;
+
+    }
+  }
+  &__buttonClose{
+    margin-left: 12px;
+    svg{
+      font-size: 12px;
+    }
+  }
+
+}
+@keyframes wave-animation {
+  0%{
+    transform: scale(0.7, 0.7)
+  }
+  50% {
+    transform: scale(1.0, 1.0);
+  }
+  100% {
+    transform: scale(0.7, 0.7);
+  }
+}

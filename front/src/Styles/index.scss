@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+@import '~reset-css';
+
+body{
+  background-color: #f4f7fd;
+}
+
+html,body, #root, .wrapper{
+  height: 100%;
+  color: #202020;
+
+}
+* {
+  outline: none;
+  box-sizing: border-box;
+}
+.chat__sidebar-modalItem{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0px;
+  & .ant-form-item-label{
+    text-align: left;
+  }
+
+}
